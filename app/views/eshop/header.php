@@ -100,7 +100,6 @@
 						</div>
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
-
 								<li><a href="<?=ROOT?>index" class="<?= $page_title == "Home" ? "active" : ""; ?>">Home</a></li>
 								<li class="dropdown"><a href="<?=ROOT?>shop" class="<?= $page_title == "Shop" ? "active" : ""; ?>">Shop</a></li> 
 								<li><a href="<?=ROOT?>contact-us" class="<?= $page_title == "Contact-us" ? "active" : ""; ?>">Contact</a></li>

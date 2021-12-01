@@ -9,7 +9,6 @@ Class Login extends Controller
 		
 		if($_SERVER['REQUEST_METHOD'] == "POST")
 		{
- 			
 			$user = $this->load_model("User");
 			$user->login($_POST);
 		}

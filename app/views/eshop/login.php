@@ -23,7 +23,6 @@
 						<a href="<?=ROOT?>signup">Dont have an account? Signup here</a>
 					</div><!--/login form-->
 				</div>
-			 
 			</div>
 		</div>
 	</section><!--/form-->
